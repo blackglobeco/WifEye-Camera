@@ -33,7 +33,7 @@ fonttools==4.59.1
 fsspec==2024.6.1
 idna==3.10
 importlib_metadata==8.7.0
-ipython==
+ipython
 ipython_pygments_lexers
 ipywidgets==8.1.7
 itsdangerous==2.2.0
